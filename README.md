@@ -1,4 +1,4 @@
-# new_tab_app
+# Awesome New Tab
 
 A new Flutter project.
 
